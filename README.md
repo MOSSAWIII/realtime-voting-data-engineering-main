@@ -1,3 +1,7 @@
+> **Duplicate project / historical snapshot:** This repository is a near-duplicate of [`MOSSAWIII/realtime-voting-data-engineering`](https://github.com/MOSSAWIII/realtime-voting-data-engineering). The latter is the preferred entry point for the demonstration. This copy is preserved for reference pending a decision to archive it. Both use **synthetic election events**, not official live voting results.
+
+---
+
 # Real-time Election Data Engineering System
 
 A robust, distributed system for processing and visualizing election data in real-time using modern data engineering tools and practices.
